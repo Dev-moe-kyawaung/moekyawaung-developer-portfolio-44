@@ -1,0 +1,4 @@
+{
+  "$schema": "[https://openapi.vercel.app/vercel.json](https://openapi.vercel.app/vercel.json)",
+  "outputDirectory": "out"
+}
